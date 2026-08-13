@@ -1,3 +1,7 @@
 div{
     height: 200px ;
+    width: 500px;
+    background-color: pink;
+    border: 16px dashed red;
+
 }
