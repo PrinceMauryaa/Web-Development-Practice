@@ -16,3 +16,5 @@ function getRandomColor(){
     return `rgb(${red}, ${green}, ${blue})`;
 
 }
+
+/
